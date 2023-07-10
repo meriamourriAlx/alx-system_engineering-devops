@@ -8,4 +8,5 @@ Task 6 - Script that displays the third lien of the file iacta
 Task 7 - Script that Creates a file containing Best school
 Task 8 - Script that redirects the output of ls -la into ls_cwd_content
 Task 9 - Script that Write a script that duplicates the last line of the file iacta
-Task 10 - Script that 
+Task 10 - Script that Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+Task 11 - Script that 
